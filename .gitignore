@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+.DS_Store
+keyconfig.py
+db.sqlite3
+*/migrations
+*/migrations/*
